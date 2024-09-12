@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(22, 8, 8);
+    color: white;
+}
+
+body h1{
+    text-align: center;
+    color: rgb(207, 245, 69);
+}
+
+body h2{
+    text-align: center;
+    background-color: aqua;
+    color: rgb(243, 64, 64);
+}
+
+
+a:any-link{
+    color: rgb(232, 122, 122);
+    background-color: rgb(18, 11, 199);
+}
+
+ 
